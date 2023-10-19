@@ -1,0 +1,23 @@
+{
+  "name": "monkeymaker",
+  "version": "0.0.1",
+  "description": "a easy generator to make userscripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziyueqi-V/monkeyMaker.git"
+  },
+  "keywords": [
+    "userscript",
+    "tampermonkey"
+  ],
+  "author": "Sherlock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ziyueqi-V/monkeyMaker/issues"
+  },
+  "homepage": "https://github.com/Ziyueqi-V/monkeyMaker#readme"
+}
